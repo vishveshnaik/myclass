@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Baker_Street</string>
+    <string name="student">Student</string>
+    <string name="professor">Professor</string>
+</resources>
